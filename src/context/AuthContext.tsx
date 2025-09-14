@@ -44,7 +44,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     
     try {
       // Demo credentials
-      if (email === 'admin@solartech.com' && password === 'admin123') {
+      if (email === 'rakesh12@gmail.com' && password === 'rakesh123') {
         const userData: User = {
           id: '1',
           email: email,

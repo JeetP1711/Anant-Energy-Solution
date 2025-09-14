@@ -66,7 +66,7 @@ const Login: React.FC = () => {
             <Sun className="h-8 w-8 text-white" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-2">Welcome Back</h2>
-          <p className="text-gray-600">Sign in to your SolarTech account</p>
+          <p className="text-gray-600">Sign in to your Anant Energy account</p>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-8">
@@ -134,8 +134,8 @@ const Login: React.FC = () => {
 
           <div className="mt-6 p-4 bg-blue-50 rounded-xl">
             <h3 className="text-sm font-medium text-blue-900 mb-2">Demo Credentials:</h3>
-            <p className="text-sm text-blue-700">Email: admin@solartech.com</p>
-            <p className="text-sm text-blue-700">Password: admin123</p>
+            <p className="text-sm text-blue-700">Email: rakesh12@gmail.com</p>
+            <p className="text-sm text-blue-700">Password: rakesh123</p>
           </div>
         </div>
       </div>

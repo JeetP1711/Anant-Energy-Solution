@@ -213,10 +213,10 @@ const Settings: React.FC = () => {
               </p>
               <div className="space-y-2 text-sm">
                 <p className="text-gray-600">
-                  <strong>Email:</strong> support@solartech.com
+                  <strong>Email:</strong> support@anantenergy.com
                 </p>
                 <p className="text-gray-600">
-                  <strong>Phone:</strong> +91 12345 67890
+                  <strong>Phone:</strong> +91 97734 76431
                 </p>
               </div>
             </div>
